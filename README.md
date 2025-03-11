@@ -1,7 +1,10 @@
 # 🌦️ VibeCast – Your Minimalistic Weather Companion
+
 Welcome to VibeCast, a beautifully designed Flutter-powered weather app that brings real-time weather updates with a touch of smooth animations and minimalistic aesthetics. Stay informed, stay prepared, and enjoy a delightful user experience with VibeCast!
 
+
 # ✨ Features
+
 ✅ **Live Weather Updates** – Powered by OpenWeatherMap API. 
 
 ✅ **Minimalistic UI** – Clean, clutter-free, and easy to navigate.
@@ -14,7 +17,9 @@ Welcome to VibeCast, a beautifully designed Flutter-powered weather app that bri
 
 ✅ **Dynamic Themes** – UI changes based on weather conditions.
 
+
 # 🚀 Built With
+
 🟢 **Flutter & Dart** – Cross-platform framework for a smooth and efficient app.
 
 ☁️ **OpenWeatherMap API** – Fetches real-time weather data.
@@ -22,6 +27,7 @@ Welcome to VibeCast, a beautifully designed Flutter-powered weather app that bri
 🎨 **Lottie Animations**  – Adds beautiful weather-based animations.
 
 🔥 Why Flutter?
+
 **Fast & Beautiful** – Flutter’s UI framework ensures a smooth and native-like experience.
 
 **Cross-Platform** – Runs seamlessly on Android, iOS, and even the web.
@@ -47,6 +53,7 @@ VibeCast/
 │── assets/                       # Images, animations, and fonts  
 │── pubspec.yaml                  # Dependencies and assets configuration  
 │── README.md                     # Project documentation  
+
 
 # 📸 Screenshots
 
@@ -99,6 +106,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 # 💡 How It Works
+
 🔹 Fetches real-time weather data from OpenWeatherMap API.
 
 🔹 Uses animations to enhance user experience.
@@ -111,8 +119,12 @@ samples, guidance on mobile development, and a full API reference.
 We welcome contributions! Feel free to fork the repo, create a new branch, and submit a PR.
 
 # 📩 Connect with Me
+
 👨‍💻 **Developer**: Karan Sharma
-🌍 **LinkedIn/GitHub**: Your Profile
+
+🌍 **LinkedIn/GitHub**: https://github.com/KaranSharma73
+
+
 
 ⭐ If you like this project, don’t forget to give it a star! ⭐
 
