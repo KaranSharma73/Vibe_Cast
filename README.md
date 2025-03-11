@@ -122,7 +122,7 @@ We welcome contributions! Feel free to fork the repo, create a new branch, and s
 
 👨‍💻 **Developer**: Karan Sharma
 
-🌍 **LinkedIn/GitHub**: https://github.com/KaranSharma73
+🌍 **LinkedIn**: www.linkedin.com/in/karan2322
 
 
 
