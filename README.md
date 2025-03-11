@@ -16,13 +16,18 @@ Welcome to VibeCast, a beautifully designed Flutter-powered weather app that bri
 
 # 🚀 Built With
 🟢 **Flutter & Dart** – Cross-platform framework for a smooth and efficient app.
+
 ☁️ **OpenWeatherMap API** – Fetches real-time weather data.
+
 🎨 **Lottie Animations**  – Adds beautiful weather-based animations.
 
 🔥 Why Flutter?
 **Fast & Beautiful** – Flutter’s UI framework ensures a smooth and native-like experience.
+
 **Cross-Platform** – Runs seamlessly on Android, iOS, and even the web.
+
 **Hot Reload** – Real-time updates during development for a faster workflow.
+
 **Powerful UI Customization** – Build visually stunning apps effortlessly.
 
 # 📂 Project Structure
@@ -44,6 +49,16 @@ VibeCast/
 │── README.md                     # Project documentation  
 
 # 📸 Screenshots
+
+
+![screenshot_1](https://github.com/user-attachments/assets/be2e70ce-322a-4587-8fb4-c2579f737492)
+
+
+![screenshot_2](https://github.com/user-attachments/assets/7f03b18b-d640-4655-8c3b-08000a38e97e)
+
+
+
+
 
 
 # 📦 Getting Started
@@ -85,8 +100,11 @@ samples, guidance on mobile development, and a full API reference.
 
 # 💡 How It Works
 🔹 Fetches real-time weather data from OpenWeatherMap API.
+
 🔹 Uses animations to enhance user experience.
+
 🔹 Detects user location for an instant weather update.
+
 🔹 Displays temperature, humidity, wind speed, and more.
 
 # 🤝 Contributing
