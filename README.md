@@ -2,11 +2,16 @@
 Welcome to VibeCast, a beautifully designed Flutter-powered weather app that brings real-time weather updates with a touch of smooth animations and minimalistic aesthetics. Stay informed, stay prepared, and enjoy a delightful user experience with VibeCast!
 
 # ✨ Features
-✅ **Live Weather Updates** – Powered by OpenWeatherMap API. \n
+✅ **Live Weather Updates** – Powered by OpenWeatherMap API. 
+
 ✅ **Minimalistic UI** – Clean, clutter-free, and easy to navigate.
+
 ✅ **Smooth Animations** – Enhanced visual appeal for a dynamic experience.
+
 ✅ **Location-Based Forecast** – Get real-time weather updates based on your location.
+
 ✅ **Multi-City Support** – Check weather conditions in different cities.
+
 ✅ **Dynamic Themes** – UI changes based on weather conditions.
 
 # 🚀 Built With
