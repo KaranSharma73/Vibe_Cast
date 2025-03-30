@@ -1,5 +1,8 @@
 # 🌦️ VibeCast – Your Minimalistic Weather Companion
 
+![1_20250330_164314_0000](https://github.com/user-attachments/assets/29b56b4f-d620-4e04-a781-f7fbb54773c2)
+
+
 Welcome to VibeCast, a beautifully designed Flutter-powered weather app that brings real-time weather updates with a touch of smooth animations and minimalistic aesthetics. Stay informed, stay prepared, and enjoy a delightful user experience with VibeCast!
 
 
@@ -55,16 +58,16 @@ VibeCast/
 │── README.md                     # Project documentation  
 
 
-# 📸 Screenshots
+# 📸 Veiws
 
 
-![screenshot_1](https://github.com/user-attachments/assets/be2e70ce-322a-4587-8fb4-c2579f737492)
+![2_20250330_164314_0001](https://github.com/user-attachments/assets/0ec1666c-7fec-47b2-8d38-bafca0db0b9e)
 
 
-![screenshot_2](https://github.com/user-attachments/assets/7f03b18b-d640-4655-8c3b-08000a38e97e)
+![3_20250330_164314_0002](https://github.com/user-attachments/assets/2f2881bc-da47-4783-a5b6-1d4d4ebfb596)
 
 
-
+![4_20250330_164314_0003](https://github.com/user-attachments/assets/5996b944-0032-47bc-93c7-36e28bdddcee)
 
 
 
